@@ -5,14 +5,14 @@
 
 Bem-vindo ao meu repositório de estudos! Aqui concentro meus projetos práticos e exercícios focados em **Programação Orientada a Objetos** usando C#. O objetivo é documentar minha evolução técnica.
 
-##  Projetos
+## Projetos
 
 | Projeto | Descrição |
-| :--- | :--- | :---: |
-| **[📂 SistemaRH](./SistemaRH)** | Sistema de gestão de funcionários aplicando conceitos de Herança, Polimorfismo e Classes Abstratas. 
-| **[📂 SistemaBanco](./SistemaBanco)** | Simulação bancária focada em Encapsulamento (proteção de saldo) e Interfaces (Cálculo de Tributos). 
+| :--- | :--- |
+| **[📂 SistemaRH](./SistemaRH)** | Sistema de gestão de funcionários aplicando conceitos de Herança, Polimorfismo e Classes Abstratas. |
+| **[📂 SistemaBanco](./SistemaBanco)** | Simulação bancária focada em Encapsulamento (proteção de saldo) e Interfaces (Cálculo de Tributos). |
 
-## Tecnologias e Conceitos
+## 🚀 Tecnologias e Conceitos
 
 * **Linguagem:** C# (.NET 8.0)
 * **IDE:** VS Code
