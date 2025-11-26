@@ -15,7 +15,6 @@ Bem-vindo ao meu repositório de estudos! Aqui concentro meus projetos práticos
 ## 🚀 Tecnologias e Conceitos
 
 * **Linguagem:** C# (.NET 8.0)
-* **IDE:** VS Code
 * **Conceitos:** Abstração, Encapsulamento, Herança, Polimorfismo e Interfaces.
 
 ---
