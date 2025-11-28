@@ -8,7 +8,7 @@ while (sistemaRodando)
 {
 Console.WriteLine("\n Menu");
 Console.WriteLine("1- Cadastrar livro");
-Console.WriteLine("2- Lisrar Livros");
+Console.WriteLine("2- Listar Livros");
 Console.WriteLine("3- pesquisar por autor");
 Console.WriteLine("0 - Sair");
 
