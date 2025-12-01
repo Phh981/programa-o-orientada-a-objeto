@@ -1,22 +1,25 @@
-#  Estudos de POO com C#
+#Estudos de POO com C#
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 Bem-vindo ao meu repositório de estudos! Aqui concentro meus projetos práticos e exercícios focados em **Programação Orientada a Objetos** usando C#. O objetivo é documentar minha evolução técnica.
 
-## Projetos
+## 📂 Projetos
 
 | Projeto | Descrição |
 | :--- | :--- |
 | **[📂 SistemaRH](./SistemaRH)** | Sistema de gestão de funcionários aplicando conceitos de Herança, Polimorfismo e Classes Abstratas. |
 | **[📂 SistemaBanco](./SistemaBanco)** | Simulação bancária focada em Encapsulamento (proteção de saldo) e Interfaces (Cálculo de Tributos). |
-| **[📂 Sistema Biblioteca](./SistemaBiblioteca)** | Gerenciador de acervo com **Menu Interativo**, manipulação de Listas e buscas avançadas com **LINQ**. |
+| **[📂 Sistema Biblioteca](./SistemaLoja)** | Gerenciador de acervo com **Menu Interativo**, manipulação de Listas e buscas avançadas com **LINQ**. |
+| **[📂 Sistema Câmbio](./SistemaCambio)** | Aplicação que consome uma **API REST** real, utiliza **Async/Await** e manipulação de **JSON** para cotação de moedas. |
 
-## 🚀 Tecnologias e Conceitos
+## Tecnologias e Conceitos
 
 * **Linguagem:** C# (.NET 8.0)
-* **Conceitos:** Abstração, Encapsulamento, Herança, Polimorfismo e Interfaces.
+* **IDE:** VS Code
+* **Conceitos:** POO (Abstração, Herança, Polimorfismo), Interfaces, Listas, LINQ.
+* **Integração:** Consumo de APIs, HttpClient, Tasks (Async/Await) e Serialização JSON.
 
 ---
 ### ☕ Autor
