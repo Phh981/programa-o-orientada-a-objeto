@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório de estudos! Aqui concentro meus projetos práticos
 | **[📂 SistemaRH](./SistemaRH)** | Sistema de gestão de funcionários aplicando conceitos de Herança, Polimorfismo e Classes Abstratas. |
 | **[📂 SistemaBanco](./SistemaBanco)** | Simulação bancária focada em Encapsulamento (proteção de saldo) e Interfaces (Cálculo de Tributos). |
 | **[📂 Sistema Biblioteca](./SistemaLoja)** | Gerenciador de acervo com **Menu Interativo**, manipulação de Listas e buscas avançadas com **LINQ**. |
-| **[📂 Sistema Câmbio](./SistemaCambio)** | Aplicação que consome uma **API REST** real, utiliza **Async/Await** e manipulação de **JSON** para cotação de moedas. |
+| **[📂 SistemaCâmbio](./SistemaCambio)** | Aplicação que consome uma **API REST** real, utiliza **Async/Await** e manipulação de **JSON** para cotação de moedas. |
 
 ## Tecnologias e Conceitos
 
